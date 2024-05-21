@@ -1,0 +1,20 @@
+1- Create the conda environmet.
+conda create -n prep-for-a-meeting python=3.10
+
+2- Activate the conda environment.
+conda activate prep-for-a-meeting
+
+3- Create the 'project-setup.txt' file.
+
+4- Create the 'requirements.txt' file.
+
+5- Install the requirements.txt.
+pip install -r requirements.txt
+
+6- Create the .env.example file.
+
+7- Create the src folder.
+
+8- Inside the src folder, create the .py files needed to create the crew.
+main.py, tasks.py, agents.py, tools.py
+
